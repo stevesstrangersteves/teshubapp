@@ -341,4 +341,4 @@ Nếu có vấn đề thanh toán hoặc billing:
 
 *Lần cập nhật cuối: 2026-03-08*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)

@@ -406,7 +406,7 @@ See [LICENSES](../LICENSES) directory for full list.
 
 *Lần cập nhật cuối: 2026-03-08*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)
 
 **Subscribe để nhận thông báo cập nhật:**
 - 📧 [Newsletter](https://teshub.dev/subscribe)

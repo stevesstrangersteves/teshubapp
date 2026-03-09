@@ -53,9 +53,9 @@ Xem chi tiết: [Privacy Policy](https://teshub.dev/privacy)
 
 ### Tôi bắt đầu từ đâu?
 **A**: Theo 3 bước:
-1. **Cài đặt** TeSHub: [Installation Guide](./GITBOOK_INSTALLATION.md)
-2. **Nhập API key** ElevenLabs: [API Config](./GITBOOK_API_CONFIGURATION.md)
-3. **Tạo audio đầu tiên**: [Getting Started](./GITBOOK_GETTING_STARTED.md)
+1. **Cài đặt** TeSHub: [Installation Guide](./INSTALLATION.md)
+2. **Nhập API key** ElevenLabs: [API Config](./API_CONFIGURATION.md)
+3. **Tạo audio đầu tiên**: [Getting Started](./GETTING_STARTED.md)
 
 Tất cả chỉ mất 5 phút.
 
@@ -97,7 +97,7 @@ Minimum: Windows 10, macOS 12, Ubuntu 20.04.
 | Max Keys | 1 | 5 | ∞ |
 | Giá | Free | $9.99/mo | $29.99/mo |
 
-Xem chi tiết: [Licensing Guide](./GITBOOK_LICENSING.md)
+Xem chi tiết: [Licensing Guide](./LICENSING.md)
 
 ### Nâng cấp từ FREE → TRIAL dễ không?
 **A**: **Rất dễ**:
@@ -139,7 +139,7 @@ Bạn sẽ không bị charge tiếp.
    - RAM 4GB+
    - 2GB ổ cứng trống
 
-Nếu vẫn lỗi → [Contact Support](./GITBOOK_CONTACT_SUPPORT.md)
+Nếu vẫn lỗi → [Contact Support](./CONTACT_SUPPORT.md)
 
 ### "Invalid API Key" error
 **A**:
@@ -415,7 +415,7 @@ Chọn trong **TTS Settings** → **Language**.
 ## 🆘 Liên Hệ Hỗ Trợ
 
 ### Cách liên hệ nếu cần giúp?
-**A**: Xem [Contact & Support](./GITBOOK_CONTACT_SUPPORT.md):
+**A**: Xem [Contact & Support](./CONTACT_SUPPORT.md):
 - 🤖 **Telegram Bot**: @TeSHub_Support_Bot
 - 💬 **Zalo Group**: zalo.me/g/teshub
 - ✉️ **Email**: support@teshub.dev
@@ -442,8 +442,8 @@ Gửi message, sẽ phản hồi (nếu sử dụng).
 
 **Online**:
 - [teshub.dev/docs](https://teshub.dev/docs)
-- [User Guide](./GITBOOK_USAGE_GUIDE.md)
-- [Features](./GITBOOK_FEATURES.md)
+- [User Guide](./USAGE_GUIDE.md)
+- [Features](./FEATURES.md)
 
 ### Có tutorial video không?
 **A**:
@@ -482,9 +482,9 @@ Codebase có thể sẽ release MIT license năm 2027.
 
 ## 📞 Nếu Không Tìm Được Câu Trả Lời
 
-1. **Xem lại tài liệu**: [User Guide](./GITBOOK_USAGE_GUIDE.md), [Features](./GITBOOK_FEATURES.md)
+1. **Xem lại tài liệu**: [User Guide](./USAGE_GUIDE.md), [Features](./FEATURES.md)
 2. **Hỏi cộng đồng**: [Zalo Group](zalo.me/g/teshub)
-3. **Liên hệ support**: [Contact & Support](./GITBOOK_CONTACT_SUPPORT.md)
+3. **Liên hệ support**: [Contact & Support](./CONTACT_SUPPORT.md)
 
 **Response time**: 1-24h (tuỳ channel).
 
@@ -492,6 +492,6 @@ Codebase có thể sẽ release MIT license năm 2027.
 
 *Lần cập nhật cuối: 2026-03-08*
 
-*Không tìm thấy câu trả lời? [Liên hệ chúng tôi!](./GITBOOK_CONTACT_SUPPORT.md)*
+*Không tìm thấy câu trả lời? [Liên hệ chúng tôi!](./CONTACT_SUPPORT.md)*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)

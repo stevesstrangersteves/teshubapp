@@ -379,4 +379,4 @@ Support open-source AI tools: https://teshub.dev/donate
 
 *Cảm ơn bạn vì muốn hỗ trợ TeSHub! 💙*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)

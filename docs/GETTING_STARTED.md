@@ -6,7 +6,7 @@ Hướng dẫn nhanh để tạo file audio đầu tiên với TeSHub Desktop.
 
 Trước khi bắt đầu, bạn cần:
 
-1. **Cài đặt TeSHub Desktop** - Xem [Hướng Dẫn Cài Đặt](./GITBOOK_INSTALLATION.md)
+1. **Cài đặt TeSHub Desktop** - Xem [Hướng Dẫn Cài Đặt](./INSTALLATION.md)
 2. **Tài khoản ElevenLabs** - Đăng ký tại [elevenlabs.io](https://elevenlabs.io)
 3. **ElevenLabs API Key** - Lấy từ dashboard ElevenLabs
 
@@ -135,10 +135,10 @@ Hỗ trợ:
 ## Các Tính Năng Tiếp Theo
 
 Sau khi thành thạo cơ bản:
-- 🔍 Xem [Hướng Dẫn Sử Dụng Chi Tiết](./GITBOOK_USAGE_GUIDE.md)
-- 🎨 Khám Phá [Tính Năng Nâng Cao](./GITBOOK_FEATURES.md)
-- 🔐 Cấu Hình [Kimi AI Integration](./GITBOOK_KIMI_INTEGRATION.md)
-- 💳 Nâng Cấp [Pro Plan](./GITBOOK_LICENSING.md)
+- 🔍 Xem [Hướng Dẫn Sử Dụng Chi Tiết](./USAGE_GUIDE.md)
+- 🎨 Khám Phá [Tính Năng Nâng Cao](./FEATURES.md)
+- 🔐 Cấu Hình [Kimi AI Integration](./KIMI_INTEGRATION.md)
+- 💳 Nâng Cấp [Pro Plan](./LICENSING.md)
 
 ## Gặp Vấn Đề?
 
@@ -157,12 +157,12 @@ Sau khi thành thạo cơ bản:
 - Thử file khác
 - Kiểm tra volume hệ thống
 
-Xem thêm [FAQ](./GITBOOK_FAQ.md) để giải pháp khác.
+Xem thêm [FAQ](./FAQ.md) để giải pháp khác.
 
 ---
 
 **Chúc mừng!** 🎉 Bạn đã sẵn sàng tạo âm thanh AI.
 
-*Cần trợ giúp thêm? [Liên Hệ](./GITBOOK_CONTACT_SUPPORT.md)*
+*Cần trợ giúp thêm? [Liên Hệ](./CONTACT_SUPPORT.md)*
 
 *Lần cập nhật cuối: 2026-03-08*

@@ -64,11 +64,19 @@ Hướng dẫn cài đặt TeSHub Desktop cho Windows, macOS và Linux.
 1. Tìm file `TeSHub Desktop.app.zip` trong Downloads
 2. Nhấp đôi để tự động giải nén
 3. File `TeSHub Desktop.app` sẽ xuất hiện
+4. Đổi tên thành TeSHub-Desktop.app
 
 **Bước 3: Di Chuyển vào Applications**
 1. Mở Finder → Applications
 2. Kéo file `TeSHub Desktop.app` vào Applications
 3. Hoặc: Nhấp chuột phải → **Move to Applications**
+
+**Lưu ý nếu bị xoá app (do app đang build không có apple sig validate)
+Vào terminal gõ
+
+```
+xattr -dr com.apple.quarantine TeSHub-Desktop.app (lưu ý là dường dẫn đến TeSHub-Desktop.app)
+```
 
 **Bước 4: Chạy Lần Đầu**
 1. Mở Applications folder
@@ -91,79 +99,6 @@ Hướng dẫn cài đặt TeSHub Desktop cho Windows, macOS và Linux.
    - Để giữ: Sao lưu trước
    - Để xóa: Xóa thư mục này
 
----
-
-## Linux (Ubuntu 20.04+ & Tương Đương)
-
-### Yêu Cầu
-- Ubuntu 20.04 LTS hoặc mới hơn (hoặc distro tương đương)
-- RAM: 4GB (8GB khuyên cáo)
-- Ổ cứng: 2GB khoảng trống
-- Terminal/Shell access
-
-### Các Bước Cài Đặt
-
-**Bước 1: Tải Xuống**
-```bash
-# Download file
-wget https://releases.teshub.dev/TeSHub-Desktop-linux.zip
-```
-
-**Bước 2: Giải Nén**
-```bash
-# Giải nén
-unzip TeSHub-Desktop-linux.zip
-
-# Di chuyển vào /opt (tuỳ chọn nhưng khuyên cáo)
-sudo mv TeSHub-Desktop /opt/teshub-desktop
-```
-
-**Bước 3: Cấp Quyền Thực Thi**
-```bash
-# Cấp quyền chạy
-chmod +x /opt/teshub-desktop/TeSHub\ Desktop
-```
-
-**Bước 4: Chạy Ứng Dụng**
-```bash
-# Chạy trực tiếp
-/opt/teshub-desktop/TeSHub\ Desktop
-
-# Hoặc (nếu ở thư mục cài đặt)
-./TeSHub\ Desktop
-```
-
-### Tạo Desktop Entry (Tuỳ Chọn)
-```bash
-# Tạo file desktop entry
-cat > ~/.local/share/applications/teshub-desktop.desktop << 'EOF'
-[Desktop Entry]
-Name=TeSHub Desktop
-Exec=/opt/teshub-desktop/TeSHub\ Desktop
-Icon=application-x-executable
-Type=Application
-Categories=Audio;
-EOF
-
-# Cấp quyền
-chmod +x ~/.local/share/applications/teshub-desktop.desktop
-```
-
-Sau đó, tìm **TeSHub Desktop** trong Applications menu.
-
-### Gỡ Cài Đặt
-```bash
-# Xóa ứng dụng
-sudo rm -rf /opt/teshub-desktop
-
-# Xóa desktop entry (nếu tạo)
-rm ~/.local/share/applications/teshub-desktop.desktop
-
-# Xóa dữ liệu (tuỳ chọn)
-rm -rf ~/.config/TeSHub\ Desktop
-```
-
----
 
 ## Xác Minh Cài Đặt Thành Công
 
@@ -206,6 +141,4 @@ TeSHub Desktop sẽ thông báo khi có phiên bản mới:
 
 ---
 
-**Cần trợ giúp?** Xem [FAQ](./GITBOOK_FAQ.md) hoặc [Liên Hệ](./GITBOOK_CONTACT_SUPPORT.md).
-
-*Lần cập nhật cuối: 2026-03-08*
+**Cần trợ giúp?** Xem [FAQ](./FAQ.md) hoặc [Liên Hệ](./CONTACT_SUPPORT.md).

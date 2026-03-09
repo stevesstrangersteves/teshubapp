@@ -37,4 +37,4 @@
 - Qwen3 không generate được: kiểm tra đã tải model chưa.
 - Chạy chậm: giảm độ dài input hoặc kiểm tra proxy/mạng.
 
-Chi tiết đầy đủ xem: `docs/huong-dan-su-dung-vi.md`.
+Chi tiết đầy đủ xem: [USAGE_GUIDE_VI.md](./USAGE_GUIDE_VI.md).

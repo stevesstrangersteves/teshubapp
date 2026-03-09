@@ -296,7 +296,7 @@ Sử dụng mô hình Kimi AI để tối ưu văn bản trước TTS.
 - Dịch ngoại ngữ tự động
 - Tóm tắt văn bản dài
 
-Xem chi tiết: [Kimi AI Integration](./GITBOOK_KIMI_INTEGRATION.md)
+Xem chi tiết: [Kimi AI Integration](./KIMI_INTEGRATION.md)
 
 ---
 
@@ -311,7 +311,7 @@ Xem chi tiết: [Kimi AI Integration](./GITBOOK_KIMI_INTEGRATION.md)
 | Max Keys | 1 | 5 | ∞ |
 | Character Limit | ~10k/mo | ~100k/mo | ∞ |
 
-Xem [Licensing](./GITBOOK_LICENSING.md) để nâng cấp.
+Xem [Licensing](./LICENSING.md) để nâng cấp.
 
 ---
 
@@ -338,4 +338,4 @@ Xem [Licensing](./GITBOOK_LICENSING.md) để nâng cấp.
 
 *Lần cập nhật cuối: 2026-03-08*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)

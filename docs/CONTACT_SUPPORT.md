@@ -7,7 +7,7 @@ Các cách liên hệ với TeSHub team để nhận trợ giúp, báo cáo lỗ
 ### 🤖 Telegram Bot - Hỗ Trợ Nhanh 24/7
 
 **Bot Name**: @TeSHub_Support_Bot
-**Truy Cập**: [Telegram](https://t.me/TeSHub_Support_Bot)
+**Truy Cập**: [Telegram](https://t.me/teshubsitetts_bot)
 
 #### Cách Sử Dụng
 1. Mở Telegram
@@ -46,7 +46,7 @@ Bot: "Cảm ơn. Ticket #12345 đã được tạo.
 ### 💬 Zalo Community - Cộng Đồng
 
 **Group Name**: TeSHub Community
-**Truy Cập**: [Zalo Group](zalo.me/g/teshub)
+**Truy Cập**: 0377019134
 
 #### Tính Năng
 - ✅ Chia sẻ kinh nghiệm với users khác
@@ -68,9 +68,6 @@ Bot: "Cảm ơn. Ticket #12345 đã được tạo.
 
 ---
 
-### ✉️ Email - Hỗ Trợ Chính Thức
-
-**Email**: [support@teshub.dev](mailto:support@teshub.dev)
 
 #### Loại Yêu Cầu
 - 🐛 **Bug Reports** (Báo cáo lỗi)
@@ -298,10 +295,10 @@ Details: Thử nâng cấp lên PRO plan nhưng bị lỗi:
 
 **Trước khi liên hệ, tham khảo**:
 
-1. **[FAQ](./GITBOOK_FAQ.md)** - Câu hỏi thường gặp
-2. **[Getting Started](./GITBOOK_GETTING_STARTED.md)** - Setup nhanh
-3. **[Usage Guide](./GITBOOK_USAGE_GUIDE.md)** - Hướng dẫn chi tiết
-4. **[Troubleshooting](./GITBOOK_FAQ.md#-giải-pháp-lỗi-thường-gặp)** - Xử lý lỗi
+1. **[FAQ](./FAQ.md)** - Câu hỏi thường gặp
+2. **[Getting Started](./GETTING_STARTED.md)** - Setup nhanh
+3. **[Usage Guide](./USAGE_GUIDE.md)** - Hướng dẫn chi tiết
+4. **[Troubleshooting](./FAQ.md#-giải-pháp-lỗi-thường-gặp)** - Xử lý lỗi
 
 ---
 
@@ -393,4 +390,4 @@ Xem chi tiết: [teshub.dev/referral](https://teshub.dev/referral)
 
 *Chúng tôi luôn sẵn sàng giúp bạn! 💙*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)

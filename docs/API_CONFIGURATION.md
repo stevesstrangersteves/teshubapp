@@ -239,7 +239,7 @@ Nhấp "Summarize"
 Output: [200 ký tự tóm tắt ngắn gọn]
 ```
 
-Xem chi tiết: [Kimi AI Integration](./GITBOOK_KIMI_INTEGRATION.md)
+Xem chi tiết: [Kimi AI Integration](./KIMI_INTEGRATION.md)
 
 ---
 
@@ -370,4 +370,4 @@ Giải pháp:
 
 *Lần cập nhật cuối: 2026-03-08*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)

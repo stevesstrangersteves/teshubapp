@@ -371,4 +371,4 @@ sk_yyy,Project B,500000
 
 *Lần cập nhật cuối: 2026-03-08*
 
-[← Quay Lại](./GITBOOK_INTRODUCTION.md)
+[← Quay Lại](./INTRODUCTION.md)

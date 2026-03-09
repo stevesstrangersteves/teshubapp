@@ -34,20 +34,20 @@ TeSHub Desktop mang lại sức mạnh của các công cụ AI voice chuyên ng
 Tài liệu này được tổ chức thành các phần sau:
 
 ### 👤 Cho Người Dùng Mới
-1. [**Cài Đặt**](./GITBOOK_INSTALLATION.md) - Hướng dẫn cài đặt cho OS của bạn
-2. [**Bắt Đầu Nhanh**](./GITBOOK_GETTING_STARTED.md) - Thiết lập API key và tạo audio đầu tiên
-3. [**Hướng Dẫn Sử Dụng**](./GITBOOK_USAGE_GUIDE.md) - Hướng dẫn chi tiết từng tính năng
+1. [**Cài Đặt**](./INSTALLATION.md) - Hướng dẫn cài đặt cho OS của bạn
+2. [**Bắt Đầu Nhanh**](./GETTING_STARTED.md) - Thiết lập API key và tạo audio đầu tiên
+3. [**Hướng Dẫn Sử Dụng**](./USAGE_GUIDE.md) - Hướng dẫn chi tiết từng tính năng
 
 ### 🔧 Cho Người Dùng Nâng Cao
-- [**Cấu Hình API**](./GITBOOK_API_CONFIGURATION.md) - Tích hợp Kimi AI và quản lý keys
-- [**Quản Lý License**](./GITBOOK_LICENSING.md) - Nâng cấp lên Pro Plan
-- [**FAQ**](./GITBOOK_FAQ.md) - Câu hỏi thường gặp và giải pháp
+- [**Cấu Hình API**](./API_CONFIGURATION.md) - Tích hợp Kimi AI và quản lý keys
+- [**Quản Lý License**](./LICENSING.md) - Nâng cấp lên Pro Plan
+- [**FAQ**](./FAQ.md) - Câu hỏi thường gặp và giải pháp
 
 ### 📚 Tham Khảo
-- [**Tính Năng**](./GITBOOK_FEATURES.md) - Tính năng chi tiết
-- [**Liên Hệ & Hỗ Trợ**](./GITBOOK_CONTACT_SUPPORT.md) - Cách liên hệ
-- [**Đóng Góp**](./GITBOOK_DONATE.md) - Hỗ trợ dự án
-- [**Lịch Sử Phiên Bản**](./GITBOOK_CHANGELOG.md) - Cập nhật mới nhất
+- [**Tính Năng**](./FEATURES.md) - Tính năng chi tiết
+- [**Liên Hệ & Hỗ Trợ**](./CONTACT_SUPPORT.md) - Cách liên hệ
+- [**Đóng Góp**](./DONATE.md) - Hỗ trợ dự án
+- [**Lịch Sử Phiên Bản**](./CHANGELOG.md) - Cập nhật mới nhất
 
 ## Tính Năng Nổi Bật
 
@@ -101,7 +101,7 @@ Quản lý nhiều ElevenLabs API keys:
 - Xử lý song song (10+ songs)
 - Ưu tiên hỗ trợ
 
-Xem chi tiết tại [Quản Lý License](./GITBOOK_LICENSING.md).
+Xem chi tiết tại [Quản Lý License](./LICENSING.md).
 
 ## Liên Hệ & Hỗ Trợ
 
@@ -110,17 +110,17 @@ Xem chi tiết tại [Quản Lý License](./GITBOOK_LICENSING.md).
 - ✉️ **Email**: support@teshub.dev
 - 🌐 **Website**: https://teshub.dev
 
-Chi tiết tại [Liên Hệ & Hỗ Trợ](./GITBOOK_CONTACT_SUPPORT.md).
+Chi tiết tại [Liên Hệ & Hỗ Trợ](./CONTACT_SUPPORT.md).
 
 ## Bắt Đầu
 
-1. [Cài đặt ứng dụng](./GITBOOK_INSTALLATION.md)
-2. [Nhập ElevenLabs API key](./GITBOOK_API_CONFIGURATION.md)
-3. [Tạo file audio đầu tiên](./GITBOOK_GETTING_STARTED.md)
+1. [Cài đặt ứng dụng](./INSTALLATION.md)
+2. [Nhập ElevenLabs API key](./API_CONFIGURATION.md)
+3. [Tạo file audio đầu tiên](./GETTING_STARTED.md)
 
 ---
 
 **Lần cập nhật cuối**: 2026-03-08
 **Phiên bản tài liệu**: 1.0.0
 
-*Bất kỳ câu hỏi hay vấn đề? Tham khảo [FAQ](./GITBOOK_FAQ.md) hoặc [Liên Hệ](./GITBOOK_CONTACT_SUPPORT.md).*
+*Bất kỳ câu hỏi hay vấn đề? Tham khảo [FAQ](./FAQ.md) hoặc [Liên Hệ](./CONTACT_SUPPORT.md).*
