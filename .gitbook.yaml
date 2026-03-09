@@ -1,0 +1,32 @@
+# GitBook Configuration for TeSHub Desktop Documentation
+
+root: ./docs
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  # Old file names (if migrating from previous versions)
+  /GITBOOK_INTRODUCTION: /INTRODUCTION
+  /GITBOOK_INSTALLATION: /INSTALLATION
+  /GITBOOK_GETTING_STARTED: /GETTING_STARTED
+  /GITBOOK_FEATURES: /FEATURES
+  /GITBOOK_USAGE_GUIDE: /USAGE_GUIDE
+  /GITBOOK_API_CONFIGURATION: /API_CONFIGURATION
+  /GITBOOK_KIMI_INTEGRATION: /KIMI_INTEGRATION
+  /GITBOOK_LICENSING: /LICENSING
+  /GITBOOK_CONTACT_SUPPORT: /CONTACT_SUPPORT
+  /GITBOOK_FAQ: /FAQ
+  /GITBOOK_CHANGELOG: /CHANGELOG
+  /GITBOOK_DONATE: /DONATE
+
+output:
+  pdf: {}
+  epub: {}
+
+title: TeSHub Desktop Documentation
+author: TeSHub Team
+description: Complete user documentation for TeSHub Desktop Application
+isbn: ""
+language: en
