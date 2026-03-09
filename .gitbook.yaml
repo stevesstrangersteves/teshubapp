@@ -25,8 +25,8 @@ output:
   pdf: {}
   epub: {}
 
-title: TeSHub Desktop Documentation
+title: Tài Liệu TeSHub Desktop
 author: TeSHub Team
-description: Complete user documentation for TeSHub Desktop Application
+description: Tài liệu hướng dẫn người dùng hoàn chỉnh cho ứng dụng TeSHub Desktop
 isbn: ""
-language: en
+language: vi

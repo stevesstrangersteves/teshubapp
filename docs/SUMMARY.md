@@ -1,35 +1,35 @@
-# TeSHub Desktop - Table of Contents
+# TeSHub Desktop - Mục Lục
 
-## Getting Started
+## 🚀 Bắt Đầu
 
-* [Introduction](INTRODUCTION.md)
-* [Installation](INSTALLATION.md)
-* [Quick Start Guide](GETTING_STARTED.md)
-* [Vietnamese Quick Start](QUICK_START_VI.md)
+* [Giới Thiệu](INTRODUCTION.md)
+* [Cài Đặt](INSTALLATION.md)
+* [Hướng Dẫn Nhanh](GETTING_STARTED.md)
+* [Hướng Dẫn Nhanh (Tiếng Việt)](QUICK_START_VI.md)
 
-## Learning & Features
+## 📚 Hướng Dẫn & Tính Năng
 
-* [Features Overview](FEATURES.md)
-* [Usage Guide](USAGE_GUIDE.md)
-* [Vietnamese Usage Guide](USAGE_GUIDE_VI.md)
+* [Tổng Quan Tính Năng](FEATURES.md)
+* [Hướng Dẫn Chi Tiết](USAGE_GUIDE.md)
+* [Hướng Dẫn Chi Tiết (Tiếng Việt)](USAGE_GUIDE_VI.md)
 
-## Configuration
+## ⚙️ Cấu Hình
 
-* [API Configuration](API_CONFIGURATION.md)
-* [Kimi AI Integration](KIMI_INTEGRATION.md)
+* [Cấu Hình API](API_CONFIGURATION.md)
+* [Tích Hợp Kimi AI](KIMI_INTEGRATION.md)
 
-## Account & Support
+## 💳 Tài Khoản & Hỗ Trợ
 
-* [Licensing & Plans](LICENSING.md)
-* [Contact & Support](CONTACT_SUPPORT.md)
-* [FAQ & Troubleshooting](FAQ.md)
+* [License & Gói Cước](LICENSING.md)
+* [Liên Hệ & Hỗ Trợ](CONTACT_SUPPORT.md)
+* [Câu Hỏi Thường Gặp & Xử Lý Lỗi](FAQ.md)
 
-## Additional Resources
+## 📖 Tài Nguyên Bổ Sung
 
-* [Changelog](CHANGELOG.md)
-* [Support the Project](DONATE.md)
+* [Lịch Sử Phiên Bản](CHANGELOG.md)
+* [Hỗ Trợ Dự Án](DONATE.md)
 
-## Reference
+## 🔍 Tham Khảo
 
-* [Documentation Index](INDEX.md)
-* [README](README.md)
+* [Chỉ Mục Tài Liệu](INDEX.md)
+* [Bản Đọc Chính](README.md)
